@@ -1,2 +1,2 @@
-# todoApp
+# TodoApp
 Belajar react js
